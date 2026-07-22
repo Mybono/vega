@@ -22,10 +22,22 @@ transcription happens locally.
 ## Install on macOS
 
 1. Download `VEGA-x.y.z.pkg` from the [Releases page](https://github.com/Mybono/vega/releases).
-2. The installer is not yet code-signed, so macOS Gatekeeper will block a normal
-   double-click. Right-click the `.pkg` file, choose Open, then click Open again in
-   the warning dialog.
-3. Follow the installer steps.
+2. The installer is not yet code-signed, so macOS Gatekeeper will block it. If a
+   simple right-click the `.pkg` file → Open → Open doesn't work (recent macOS
+   versions often ignore this), do it via System Settings instead:
+   1. Double-click the `.pkg` file. You'll get a dialog saying it can't be opened
+      because Apple cannot check it for malicious software — click OK.
+   2. Open **System Settings → Privacy & Security** and scroll down to the
+      Security section. You'll see a line saying `"VEGA-x.y.z.pkg" was blocked to
+      protect your Mac.` Click **Open Anyway**.
+
+      ![Privacy & Security pane with the Open Anyway button](docs/images/macos-privacy-security-open-anyway.jpg)
+
+   3. A confirmation dialog appears. Click **Open Anyway** again (you may need to
+      enter your Mac password or use Touch ID).
+
+      ![Confirmation dialog with the second Open Anyway button](docs/images/macos-open-anyway-confirm.jpg)
+3. The installer opens. Follow the installer steps.
 
 After installation VEGA starts on its own and adds a microphone icon to the menu
 bar. A setup wizard walks you through the permissions it needs. On first launch it
