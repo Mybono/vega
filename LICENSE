@@ -1,0 +1,76 @@
+VEGA End-User License Agreement (EULA)
+
+Copyright (c) 2024–2026 Artur Polishchuk. All rights reserved.
+
+VEGA ("the Software") is proprietary software. It is NOT open source. This
+Agreement governs your use of the Software and any installers, binaries, and
+accompanying materials distributed with it. By downloading, installing, or
+using the Software, you agree to these terms. If you do not agree, do not
+install or use the Software.
+
+1. GRANT OF LICENSE
+   The Software is provided free of charge for PERSONAL, NON-COMMERCIAL use.
+   Subject to your compliance with this Agreement, you are granted a
+   non-exclusive, non-transferable, revocable license to install and use the
+   Software on devices that you own or control, for your own personal purposes.
+
+2. REDISTRIBUTION
+   You may redistribute the official, unmodified installer exactly as it was
+   published, free of charge, provided that:
+     (a) it is passed on complete and unaltered, including this LICENSE and all
+         accompanying notices;
+     (b) you charge nothing for it and bundle it with nothing that is sold; and
+     (c) recipients remain bound by this Agreement.
+   You may not repackage, re-sign, rename, or otherwise modify the installer
+   before redistributing it.
+
+3. RESTRICTIONS
+   You may NOT, in whole or in part:
+     (a) use the Software for any commercial purpose, or within or on behalf of
+         a business, company, or other organization, without a separate written
+         commercial license from the copyright holder;
+     (b) sell, rent, lease, sublicense, or charge any fee for the Software;
+     (c) modify, adapt, translate, or create derivative works of the Software;
+     (d) reverse engineer, decompile, or disassemble the Software, or attempt to
+         derive its source code, except to the limited extent this restriction
+         is expressly prohibited by applicable law;
+     (e) remove, alter, or obscure any copyright, trademark, or other
+         proprietary notices.
+
+4. OWNERSHIP
+   The Software is licensed, not sold. The copyright holder retains all right,
+   title, and interest in and to the Software, including all intellectual
+   property rights. No rights are granted except as expressly set out here.
+
+5. THIRD-PARTY COMPONENTS
+   The Software incorporates third-party open-source components, each governed
+   by its own license. Those licenses are listed in THIRD_PARTY_NOTICES.md and
+   continue to apply to those components. Nothing in this Agreement limits your
+   rights under, or imposes terms beyond, those third-party licenses with
+   respect to the third-party components themselves.
+
+6. PRIVACY
+   The Software performs speech recognition locally on your device; raw audio
+   is not transmitted off the device. See PRIVACY.md for the full description
+   of the Software's network behavior.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+9. TERMINATION
+   This license terminates automatically if you breach any of its terms. Upon
+   termination you must stop using the Software and destroy all copies in your
+   possession. Sections 3, 4, 7, and 8 survive termination.
+
+10. COMMERCIAL LICENSING
+   For commercial or organizational use, contact the copyright holder to obtain
+   a separate commercial license.
