@@ -42,5 +42,8 @@ signal with an unknown multiplier, not as a user count.
 ./metrics/snapshot.sh   # needs gh, jq, and push access for the traffic half
 ```
 
-The traffic API requires push access; if the token lacks it, that half is
-skipped with a warning and the download snapshot still succeeds.
+The traffic API requires `Administration: read`, which the workflow's built-in
+`GITHUB_TOKEN` cannot be granted — the `permissions:` block has no key for it.
+To collect views and clones, add a fine-grained PAT with that permission on this
+repository as the `METRICS_TOKEN` secret. Without it the traffic half is skipped
+with a warning and the download snapshot still succeeds.

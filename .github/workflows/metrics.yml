@@ -22,7 +22,11 @@ jobs:
 
       - name: Snapshot download counts and traffic
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # The traffic API needs Administration:read, which GITHUB_TOKEN cannot
+          # be granted — `permissions:` has no key for it. Without METRICS_TOKEN
+          # (a PAT with that scope) the traffic half is skipped and only the
+          # download counters are recorded.
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
         run: ./metrics/snapshot.sh
 
       - name: Commit the snapshot
