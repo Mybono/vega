@@ -98,6 +98,12 @@ Crash reports are what let us fix a build that fails only on real machines. If y
 send them, turn off **Privacy & Terms → Send Crash Reports** in the menu; everything else keeps
 working. Reports are write-only on our side — nobody can read back, change or delete a filed report.
 
+If you want to help diagnose a crash, you can email a saved report to **<mavoxlabs@gmail.com>** and
+attach `vega.log` from the same machine. That is entirely your choice and it is a separate act from the
+automatic report above: VEGA never attaches the log itself. Read both files before you send them —
+the log holds no dictated text unless you ran that session with `VEGA_LOG_TRANSCRIPTS=1`, in which
+case it holds exactly what you said.
+
 ## What VEGA never does
 
 - Never uploads audio.
@@ -127,9 +133,9 @@ reports, the downloaded speech model (if you choose to), and the app itself, and
 
 **Our database:** signing out removes your session locally but leaves the account record. To have
 the record deleted, open a request at
-[github.com/Mybono/vega/issues](https://github.com/Mybono/vega/issues) or email the address on the
-download page from the address you signed up with; it is deleted within 30 days. The app itself
-cannot delete it — the security rules deliberately forbid clients from deleting account records, so
+[github.com/Mybono/vega/issues](https://github.com/Mybono/vega/issues) or email
+**<mavoxlabs@gmail.com>** from the address you signed up with; it is deleted within 30 days. The app
+itself cannot delete it — the security rules deliberately forbid clients from deleting account records, so
 the request goes through us.
 
 Under GDPR (EEA/UK) and CCPA (California) you may also request a copy of what we hold, ask for it to
@@ -144,3 +150,8 @@ VEGA is not directed at children under 13 and we do not knowingly collect their 
 Material changes will be announced in the release notes and reflected in the "Last updated" date
 above. The published history of this file lives in the repository, so you can see exactly what
 changed and when.
+
+## Contact
+
+**<mavoxlabs@gmail.com>** is the official mailbox. Privacy questions, data-deletion and data-access
+requests, support and crash reports all reach us there.
