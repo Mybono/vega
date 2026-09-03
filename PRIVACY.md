@@ -49,7 +49,7 @@ download tells Hugging Face your IP address, like any file download.
 
 VEGA uses Google's standard sign-in. We receive, and store in Google Firestore:
 
-- your Google account id, email address, display name and profile photo URL;
+- your Google account id and email address;
 - your plan, trial length, and the timestamps of account creation and last sign-in;
 - which platform you're on (macOS or Windows).
 

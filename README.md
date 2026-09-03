@@ -77,9 +77,10 @@ raw audio is never uploaded anywhere. VEGA does make a few other network request
 such as the one-time model download and update checks, and all of them are listed
 in [PRIVACY.md](PRIVACY.md) with the exact destination and timing.
 
-## License
+## Terms and license
 
-VEGA is proprietary and free for personal, non-commercial use. The full terms are
-in [LICENSE](LICENSE). The app bundles third-party open-source components, each
-under its own license; those are listed in
+VEGA is proprietary and free to use, at home or at work — one license per person.
+The full terms are in [LICENSE](LICENSE), and your account and plan are covered by
+the [Terms of Service](TERMS.md). The app bundles third-party open-source
+components, each under its own license; those are listed in
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

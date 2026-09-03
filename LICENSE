@@ -8,11 +8,26 @@ accompanying materials distributed with it. By downloading, installing, or
 using the Software, you agree to these terms. If you do not agree, do not
 install or use the Software.
 
+Your account and your plan are governed separately by TERMS.md.
+
 1. GRANT OF LICENSE
-   The Software is provided free of charge for PERSONAL, NON-COMMERCIAL use.
-   Subject to your compliance with this Agreement, you are granted a
+   Subject to your compliance with this Agreement, you are granted a personal,
    non-exclusive, non-transferable, revocable license to install and use the
-   Software on devices that you own or control, for your own personal purposes.
+   Software on devices that you own or control.
+
+   You may use the Software for any purpose, personal or professional,
+   including in the course of your work and on behalf of your employer. What
+   you dictate, and what you use it for, is your business.
+
+   This license is granted to ONE PERSON. It covers your own use on your own
+   devices, however many of those you have. It does not cover use by anyone
+   else, and it does not cover deploying the Software for other people to use.
+   Each person who uses the Software does so under their own license and their
+   own account; passing on the installer, as section 2 permits, is how they get
+   one.
+
+   The free tier is provided at no charge. Paid plans are provided on the terms
+   stated in TERMS.md for as long as the plan is active.
 
 2. REDISTRIBUTION
    You may redistribute the official, unmodified installer exactly as it was
@@ -24,17 +39,24 @@ install or use the Software.
    You may not repackage, re-sign, rename, or otherwise modify the installer
    before redistributing it.
 
+   Passing the installer to a friend or colleague is fine and always was. Each
+   recipient uses it under their own license, on their own account.
+
 3. RESTRICTIONS
    You may NOT, in whole or in part:
-     (a) use the Software for any commercial purpose, or within or on behalf of
-         a business, company, or other organization, without a separate written
-         commercial license from the copyright holder;
-     (b) sell, rent, lease, sublicense, or charge any fee for the Software;
-     (c) modify, adapt, translate, or create derivative works of the Software;
-     (d) reverse engineer, decompile, or disassemble the Software, or attempt to
+     (a) sell, rent, lease, sublicense, or charge any fee for the Software, or
+         bundle it with anything you sell;
+     (b) redistribute it other than as permitted by section 2, or offer it to
+         third parties as a hosted or managed service;
+     (c) share one account among several people, or use one license to provide
+         the Software to people other than yourself;
+     (d) circumvent the plan limits, the account system, or any licensing or
+         entitlement check;
+     (e) modify, adapt, translate, or create derivative works of the Software;
+     (f) reverse engineer, decompile, or disassemble the Software, or attempt to
          derive its source code, except to the limited extent this restriction
          is expressly prohibited by applicable law;
-     (e) remove, alter, or obscure any copyright, trademark, or other
+     (g) remove, alter, or obscure any copyright, trademark, or other
          proprietary notices.
 
 4. OWNERSHIP
@@ -51,13 +73,19 @@ install or use the Software.
 
 6. PRIVACY
    The Software performs speech recognition locally on your device; raw audio
-   is not transmitted off the device. See PRIVACY.md for the full description
-   of the Software's network behavior.
+   is not transmitted off the device. The Software is not fully offline: it
+   checks for updates, downloads a speech model once, and reads your plan when
+   you are signed in. See PRIVACY.md for the full description of the Software's
+   network behavior and of the data held about you.
 
 7. NO WARRANTY
    THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
    KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+   [TBD: now that paid plans exist, this section cannot stand unqualified
+   against consumers in the EU, UK, and elsewhere, whose statutory rights
+   survive any disclaimer. A lawyer should add the saving language.]
 
 8. LIMITATION OF LIABILITY
    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
@@ -66,11 +94,14 @@ install or use the Software.
    OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
    SOFTWARE.
 
+   [TBD: carve out the liability that cannot lawfully be excluded — death,
+   personal injury, fraud — and consider a cap tied to amounts paid.]
+
 9. TERMINATION
    This license terminates automatically if you breach any of its terms. Upon
    termination you must stop using the Software and destroy all copies in your
    possession. Sections 3, 4, 7, and 8 survive termination.
 
-10. COMMERCIAL LICENSING
-   For commercial or organizational use, contact the copyright holder to obtain
-   a separate commercial license.
+10. VOLUME AND ORGANIZATIONAL LICENSING
+   For a license covering several people at one organization, or for terms
+   negotiated in writing, contact the copyright holder at mavoxlabs@gmail.com.
