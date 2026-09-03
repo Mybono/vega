@@ -3,15 +3,15 @@
 **Last updated:** 2026-08-29 · Applies to the VEGA desktop app for macOS and Windows.
 
 > **Before publishing:** the bracketed items below are facts only you can supply — the legal entity,
-> its address, the support email and the governing jurisdiction. They are left blank rather than
-> guessed. This document also needs a lawyer's review before it goes on a download page or into a
-> payment provider's application; it is written to be accurate about the product, not to be
-> finished legal text.
+> its address and the governing jurisdiction. They are left blank rather than guessed. This
+> document also needs a lawyer's review before it goes on a download page or into a payment
+> provider's application; it is written to be accurate about the product, not to be finished
+> legal text.
 
 ## 1. Who you're agreeing with
 
 VEGA is provided by **[LEGAL ENTITY NAME]**, **[REGISTERED ADDRESS]** ("we", "us"). Contact:
-**[SUPPORT EMAIL]**.
+**<mavoxlabs@gmail.com>** — the official mailbox for support, billing, privacy and legal questions.
 
 By installing or using VEGA you agree to these terms. If you don't agree, don't install it.
 
@@ -39,8 +39,8 @@ You must be old enough to enter a contract where you live, and at least 13.
   transaction itself, including tax.
 - Subscriptions renew automatically until cancelled. Cancel any time; you keep access until the end
   of the period you've paid for.
-- **Refunds:** contact us within 14 days of a charge and we'll refund it. Statutory rights,
-  including the EU/UK right of withdrawal, are unaffected by anything here.
+- **Refunds:** email **<mavoxlabs@gmail.com>** within 14 days of a charge and we'll refund it.
+  Statutory rights, including the EU/UK right of withdrawal, are unaffected by anything here.
 - Plans and prices can change. Changes take effect at your next renewal, and we'll tell you before
   they do.
 
